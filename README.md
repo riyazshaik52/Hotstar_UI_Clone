@@ -64,26 +64,26 @@ Tested across multiple screen sizes and resolutions.
 ---
 
 ## Contact
-If you'd like to collaborate, give feedback, or hire me:
-
-Name: Shaik Riyaz
-
-Email: your-email@example.com
-
-GitHub: @riyazshaik52
-
-LinkedIn: https://www.linkedin.com/in/riyaz52/
+  If you'd like to collaborate, give feedback, or hire me:
+  
+  Name: Shaik Riyaz
+  
+  Email: shaikriyaz1574@gmail.com
+  
+  GitHub: @riyazshaik52
+  
+  LinkedIn: https://www.linkedin.com/in/riyaz52/
 
 ---
 
 ## ⭐️ Show Your Support
-If you like this project:
-
-Give a ⭐️ on GitHub
-
-Share with others
-
-Fork it and build your version
-
-Follow me for more UI builds!
+  If you like this project:
+  
+  Give a ⭐️ on GitHub
+  
+  Share with others
+  
+  Fork it and build your version
+  
+  Follow me for more UI builds!
 
